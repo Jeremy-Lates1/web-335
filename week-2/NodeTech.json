@@ -1,0 +1,51 @@
+{
+  "studentId": 1,
+  "firstName": "Jeremy",
+  "lastName": "Lates",
+  "enrollment": [
+    {
+      "term": "1",
+      "gpa": "4.0",
+      "startDate": "01192024",
+      "endDate": "01192024",
+      "courses": [
+        {
+          "courseId": "1",
+          "description": "hjsdfasadjhkasjkd",
+          "instructor": "Krasso",
+          "score": "100",
+          "letterGrade": "A"
+        },
+        {
+          "courseId": "2",
+          "description": "sfsdfdsasadfsadfsdf",
+          "instructor": "Krasso",
+          "score": "100",
+          "letterGrade": "A"
+        }
+      ]
+    },
+    {
+      "term": "1",
+      "gpa": "4.0",
+      "startDate": "01192024",
+      "endDate": "01192024",
+      "courses": [
+        {
+          "courseId": "1",
+          "description": "hjsdfasadjhkasjkd",
+          "instructor": "Krasso",
+          "score": "100",
+          "letterGrade": "A"
+        },
+        {
+          "courseId": "2",
+          "description": "sfsdfdsasadfsadfsdf",
+          "instructor": "Krasso",
+          "score": "100",
+          "letterGrade": "A"
+        }
+      ]
+    }
+  ]
+}

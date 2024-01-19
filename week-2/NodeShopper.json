@@ -1,0 +1,49 @@
+{
+  "_id": 1,
+  "firstName": "Jeremy",
+  "lastName": "Lates",
+  "dateOfBirth": "01192024",
+  "username": "Jeremy",
+  "invoices": [
+    {
+      "_id": 1,
+      "createDate": "01192024",
+      "shipDate": "01192024",
+      "subtotal": "100",
+      "lineitem": [
+        {
+          "_id": 1,
+          "productName": "Ajax",
+          "price": "20.00",
+          "qty": "1"
+        },
+        {
+          "_id": 2,
+          "productName": "Ajax",
+          "price": "30.00",
+          "qty": "2"
+        }
+      ]
+    },
+    {
+      "_id": 1,
+      "createDate": "01192024",
+      "shipDate": "01192024",
+      "subtotal": "100",
+      "lineitem": [
+        {
+          "_id": 1,
+          "productName": "AJAX",
+          "price": "20.00",
+          "qty": "1"
+        },
+        {
+          "_id": 2,
+          "productName": "Ajax",
+          "price": "30.00",
+          "qty": "2"
+        }
+      ]
+    }
+  ]
+}
